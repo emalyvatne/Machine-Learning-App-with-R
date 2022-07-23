@@ -1,3 +1,7 @@
+# This project is adapted from the tuotrial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/Links to an external site. 
+
 # R + Python Binder Example
 
 This repo builds on the [r binder](https://github.com/binder-examples/r) and [jupyter lab binder](https://github.com/binder-examples/jupyterlab) and is complementary to the [multi-language-demo binder](https://github.com/binder-examples/multi-language-demo) with examples on using both R and python in both Jupyter Lab and RStudio.
