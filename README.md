@@ -1,6 +1,6 @@
-# This project is adapted from the tuotrial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
+# This project is adapted from the tuotrial "Your First Machine Learning Project in R Step-By-Step" by Jason Brownlee.
 
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/Links to an external site. 
+https://machinelearningmastery.com/machine-learning-in-r-step-by-step/Links to an external site.  
 
 # R + Python Binder Example
 
