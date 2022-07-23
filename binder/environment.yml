@@ -12,6 +12,7 @@ dependencies:
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
+  - r-caret
   - pip:
     - plotly
     - pandas
